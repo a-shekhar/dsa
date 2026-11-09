@@ -10,14 +10,14 @@ A fresh learning workspace for data structures, algorithms, and coding-interview
 - [Data Structures and Algorithms Made Easy](https://books.google.com/books/about/Data_Structures_and_Algorithms_Made_Easy.html?id=FjpHtQAACAAJ) — Narasimha Karumanchi.
 - Additional references will be credited alongside the relevant work.
 
-## Planned organization
+## Organization
 
 - `data-structures/` — implementations and practice grouped by topic.
 - `algorithms/` — techniques and implementations grouped by topic.
 - `problems/` — original solutions grouped by topic or source, with references.
 - `notes/` — original explanations, complexity analysis, and links.
 
-These are planned areas; content will appear as it is added. Each solution should describe the approach, time and space complexity, assumptions, and meaningful test cases where applicable.
+Topic folders are ready for exercises. Add a shared README to a problem topic when it contains solutions; use it to link each solution and describe its approach, time and space complexity, and source. Use a separate problem folder when multiple approaches, tests, or longer explanations need more space. Document assumptions and meaningful test cases where applicable.
 
 ## Getting started
 
