@@ -19,6 +19,17 @@ A fresh learning workspace for data structures, algorithms, and coding-interview
 
 Topic folders are ready for exercises. Add a shared README to a problem topic when it contains solutions; use it to link each solution and describe its approach, time and space complexity, and source. Use a separate problem folder when multiple approaches, tests, or longer explanations need more space. Document assumptions and meaningful test cases where applicable.
 
+## Study guides
+
+- [Study roadmap and Amazon preparation](notes/study-roadmap.md)
+- [Big O and complexity](notes/big-o.md)
+- [Data structures reference](notes/data-structures.md)
+- [Algorithms and problem-solving patterns](notes/algorithms-and-patterns.md)
+- [Problem index](problems/README.md)
+- [Detailed topic guides](notes/README.md#detailed-topic-guides)
+
+These guides are a study plan and reference, not a claim that every topic has an implementation or has been mastered. Course sources and difficulty are recorded with each problem; self-assessed difficulty is labeled as such.
+
 ## Getting started
 
 Install Java 25 for new Java exercises. Build tools and run commands will be documented with the exercises that use them.
